@@ -10,7 +10,7 @@ This work was supported by the French Region PACA under the project Agoraweb.
 
 (C) Copyright 2015 by Hussam Hamdan written by Hussam Hamdan.
 Modified by Mathieu Orban.
-Modified by Gael Guibon.
+
 
 ## Installation
 
