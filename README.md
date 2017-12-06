@@ -27,5 +27,8 @@ See README.txt
 Echo is released under the terms of the GNU AFFERO GENERAL PUBLIC LICENSE
 
 ## Documentation
-Hussam Hamdan, Patrice Bellot and Frédéric Béchet.  [Sentiment Lexicon-Based Features for Sentiment Analysis in Short Text.](http://www.academia.edu/11687899/Sentiment_Lexicon-Based_Features_for_Sentiment_Analysis_in_Short_Text) In Proceeding of tthe 16th International Conference on Intelligent Text Processing and Computational Linguistics. April 14–20, 2015, Cairo, Egypt.
+- Hussam Hamdan, Patrice Bellot and Frédéric Béchet.  [Sentiment Lexicon-Based Features for Sentiment Analysis in Short Text.](http://www.academia.edu/11687899/Sentiment_Lexicon-Based_Features_for_Sentiment_Analysis_in_Short_Text) In Proceeding of tthe 16th International Conference on Intelligent Text Processing and Computational Linguistics. April 14–20, 2015, Cairo, Egypt.
 
+- Hamdan, Hussam, Patrice Bellot, and Frederic Bechet. [Lsislif: Feature Extraction and Label Weighting for Sentiment Analysis in Twitter.](http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval095.pdf) (SemEval 2015) NAACL-2015. Denver, Colorado, USA, 2015
+
+-Hamdan, Hussam, Patrice Bellot, and Frederic Bechet. [Lsislif: CRF and Logistic Regression for Opinion Target Extraction and Sentiment Polarity Analysis.] (http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval128.pdf) (SemEval 2015) NAACL-2015. Denver, Colorado, USA, 2015
